@@ -112,7 +112,7 @@ GoodsMarket/
 
 1. **Клонировать репозиторий**
    ```bash
-   git clone https://github.com/yourusername/GoodsMarket.git
+   git clone https://github.com/Artemka52/GoodsMarket.git
    cd GoodsMarket
    ```
 
